@@ -1,0 +1,38 @@
+2022-10-29 14:40:11,202 - Dalal Street Framework -INFO - Framework execution started
+2022-10-29 14:40:36,809 - Dalal Street Framework -INFO - Verify actual url 
+2022-10-29 14:40:41,641 - Dalal Street Framework -INFO - Framework execution finished
+2022-10-29 15:05:43,230 - Dalal Street Framework -INFO - Framework execution started
+2022-10-29 15:06:07,995 - Dalal Street Framework -INFO - Verify actual url 
+2022-10-29 15:06:13,727 - Dalal Street Framework -INFO - Framework execution finished
+2022-10-29 15:41:53,522 - Dalal Street Framework -INFO - Framework execution started
+2022-10-29 15:42:22,905 - Dalal Street Framework -INFO - Verify actual url 
+2022-10-29 15:42:31,799 - Dalal Street Framework -INFO - Framework execution finished
+2022-10-29 15:42:31,863 - Dalal Street Framework -INFO - Framework execution started
+2022-10-29 15:43:05,522 - Dalal Street Framework -INFO - Framework execution finished
+2022-10-29 16:24:33,529 - Dalal Street Framework -INFO - Framework execution started
+2022-10-29 16:24:53,601 - Dalal Street Framework -INFO - Verify actual url 
+2022-10-29 16:24:58,970 - Dalal Street Framework -INFO - Framework execution finished
+2022-10-29 16:24:59,033 - Dalal Street Framework -INFO - Framework execution started
+2022-10-29 16:27:14,414 - Dalal Street Framework -INFO - Framework execution finished
+2022-10-29 16:36:56,628 - Dalal Street Framework -INFO - Verify actual url 
+2022-10-29 16:37:12,109 - Dalal Street Framework -INFO - BuyShareWithCustomLimit
+2022-10-29 16:37:28,557 - Dalal Street Framework -INFO - StatusMsgforCustomLimitOrderVerified
+2022-10-29 16:37:40,079 - Dalal Street Framework -INFO - buyShareforLongTerm
+2022-10-29 16:37:50,132 - Dalal Street Framework -INFO - StatusMsgforLongTermOrderVerified
+2022-10-29 16:38:04,278 - Dalal Street Framework -INFO - SellSharewithCustomLimit
+2022-10-29 16:38:18,633 - Dalal Street Framework -INFO - StatusMsgforSellSharewithCustomLimitVerified
+2022-10-29 16:38:32,780 - Dalal Street Framework -INFO - SellShareforLongTerm
+2022-10-29 16:38:49,316 - Dalal Street Framework -INFO - StatusMsgforSellShareforLongTermVerified
+2022-10-29 16:50:39,458 - Dalal Street Framework -INFO - Verify actual url 
+2022-10-29 16:50:55,576 - Dalal Street Framework -INFO - BuyShareWithCustomLimit
+2022-10-29 16:51:30,764 - Dalal Street Framework -INFO - buyShareforLongTerm
+2022-10-29 16:51:40,929 - Dalal Street Framework -INFO - StatusMsgforLongTermOrderVerified
+2022-10-29 16:52:03,052 - Dalal Street Framework -INFO - SellSharewithCustomLimit
+2022-10-29 16:52:18,294 - Dalal Street Framework -INFO - StatusMsgforSellSharewithCustomLimitVerified
+2022-10-29 16:52:37,327 - Dalal Street Framework -INFO - SellShareforLongTerm
+2022-10-29 17:28:27,553 - Dalal Street Framework -INFO - Verify actual url 
+2022-10-29 17:33:22,681 - Dalal Street Framework -INFO - Verify actual url 
+2022-10-29 17:51:26,727 - Dalal Street Framework -INFO - Verify actual url 
+2022-10-29 17:51:42,180 - Dalal Street Framework -INFO - BuyShareWithCustomLimit
+2022-10-29 17:52:15,079 - Dalal Street Framework -INFO - buyShareforLongTerm
+2022-10-29 17:52:25,885 - Dalal Street Framework -INFO - StatusMsgforLongTermOrderVerified
