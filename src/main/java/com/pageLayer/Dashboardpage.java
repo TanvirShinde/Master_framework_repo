@@ -49,10 +49,9 @@ public class Dashboardpage extends BaseTest {
 	public void clickOnTransactionLink()
 	{
 		driver.findElement(transaction_lnk).click();
+		
+		System.out.println("Renu Branch code");
 	}
 }
 
 
-//      (//div[@class='m-2 card-title'])[2] ---------this will work 
-
-//  (//div[@class='m-2 card-title'])[3]
