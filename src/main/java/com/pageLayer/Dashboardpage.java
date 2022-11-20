@@ -38,6 +38,8 @@ public class Dashboardpage extends BaseTest {
 	public void clickOnExchangeTab()
 	{
 		driver.findElement(exchange_tab).click();
+		
+		System.out.println("abcd");
 	}
 	
 	

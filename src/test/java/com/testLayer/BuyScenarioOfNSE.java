@@ -56,7 +56,7 @@ public class BuyScenarioOfNSE extends BaseTest {
 			
 	Assert.assertEquals(ep.getStatusMsgforCustomLimitOrder(), expected_msg);
 			
-		 
+		 System.out.println("statement added");
 		 
 		 
 		
